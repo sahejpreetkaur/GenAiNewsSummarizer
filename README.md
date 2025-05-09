@@ -31,8 +31,4 @@ Built using **Hugging Face Transformers** (PEGASUS and BART models), this applic
 
 ## 📦 Installation
 
-1. **Clone the repository**
 
-```bash
-git clone https://github.com/your-username/news-summarizer-gen-ai.git
-cd news-summarizer-gen-ai
