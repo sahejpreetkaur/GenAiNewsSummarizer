@@ -30,5 +30,9 @@ Built using **Hugging Face Transformers** (PEGASUS and BART models), this applic
 ---
 
 ## 📦 Installation
+1. **Clone the repository**
+
+```bash
+https://github.com/sahejpreetkaur/GenAiNewsSummarizer.git
 
 
